@@ -23,7 +23,7 @@
 * community
 * feature rich
 
-## Features
+## Features No one cares
 
 * fast and friendly delimited **file reader**: **[`?fread`](https://rdatatable.gitlab.io/data.table/reference/fread.html)**, see also [convenience features for _small_ data](https://github.com/Rdatatable/data.table/wiki/Convenience-features-of-fread)
 * fast and feature rich delimited **file writer**: **[`?fwrite`](https://rdatatable.gitlab.io/data.table/reference/fwrite.html)**
